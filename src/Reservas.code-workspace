@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "D:/Xampp/htdocs/Reservas"
+		},
+		{
+			"path": "D:/Programacion/Foot_page"
+		},
+		{
+			"path": "D:/Programacion/Proyectos para el portafolio"
+		},
+		{
+			"path": "D:/Xampp/htdocs/pos_venta"
+		},
+		{
+			"path": "D:/Xampp/htdocs/sis_venta"
+		},
+		{
+			"path": "D:/Xampp/htdocs/pos_ventas"
+		},
+		{
+			"path": "D:/Xampp/htdocs/Crud-php"
+		},
+		{
+			"path": "D:/Xampp/htdocs/Crud"
+		},
+		{
+			"path": "D:/Xampp/htdocs/Login"
+		},
+		{
+			"path": "D:/Xampp/htdocs/ventas"
+		},
+		{
+			"path": "D:/Xampp/htdocs/sistema-venta"
+		},
+		{
+			"path": "D:/Xampp/htdocs/Sistema-restaurante"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Foot_page"
+	}
+}
