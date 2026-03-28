@@ -51,7 +51,7 @@ function Productos() {
 
       alert(data.mensaje);
 
-      await obtenerProductos(); // 🔥 refresca
+      await obtenerProductos(); 
 
       setMostrarModal(false);
 
@@ -119,7 +119,6 @@ function Productos() {
   );
 }
 
-// estilos
 const styles = {
   modalOverlay: {
     position: "fixed",
