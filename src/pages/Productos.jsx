@@ -11,7 +11,6 @@ function Productos() {
     precio: ""
   });
 
-  // 🔥 Obtener productos
   const obtenerProductos = async () => {
     try {
       const response = await fetch("http://localhost/backend/obtener_productos.php");
@@ -23,12 +22,11 @@ function Productos() {
     }
   };
 
-  // 🔥 Ejecutar al cargar
   useEffect(() => {
     obtenerProductos();
   }, []);
 
-  // Capturar datos
+
   const handleChange = (e) => {
     setForm({
       ...form,
@@ -36,7 +34,7 @@ function Productos() {
     });
   };
 
-  // Guardar producto
+
   const handleSubmit = async (e) => {
     e.preventDefault();
 
